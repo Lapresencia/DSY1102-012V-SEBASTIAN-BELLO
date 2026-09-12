@@ -13,3 +13,13 @@ git status
 git add "labs/lab-veterinaria-herencia-polimorfismo"
 git commit -m "LAB-VET-00: prepara estructura del laboratorio"
 git push
+cd "https://github.com/Lapresencia/DSY1102-012V-SEBASTIAN-BELLO/blob/main/Lab%20de%20veterinaria"
+git status
+git add "labs/lab-veterinaria-herencia-polimorfismo"
+git commit -m "LAB-VET-01: analiza problema de la veterinaria"
+git push
+cd "https://github.com/Lapresencia/DSY1102-012V-SEBASTIAN-BELLO/blob/main/Lab%20de%20veterinaria"
+git status
+git add "labs/lab-veterinaria-herencia-polimorfismo"
+git commit -m "LAB-VET-02: identifica conceptos acciones y reglas"
+git push
