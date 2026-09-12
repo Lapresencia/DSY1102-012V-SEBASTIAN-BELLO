@@ -1,3 +1,15 @@
 git clone <URL-DE-TU-REPOSITORIO>
 cd "<CARPETA-DEL-REPOSITORIO>"
 git status
+# Lab Veterinaria — Herencia y Polimorfismo
+
+Nombre: TU NOMBRE
+Sección: TU SECCIÓN
+
+Estado: en progreso
+
+cd "https://github.com/Lapresencia/DSY1102-012V-SEBASTIAN-BELLO/blob/main/Lab%20de%20veterinaria"
+git status
+git add "labs/lab-veterinaria-herencia-polimorfismo"
+git commit -m "LAB-VET-00: prepara estructura del laboratorio"
+git push
